@@ -1,0 +1,18 @@
+body{margin:0px;padding:0px;}
+header{background:linear-gradient(to bottom, pink, white);height: 200px;}
+header a{float: right;}
+nav{height: 50px;}
+ul{margin-top:0px;margin-left:120px;}
+li{display: inline-block;padding: 0px 10px;border: 1px solid black;height: 30px;box-shadow: 10px 5px 5px pink;font-size: 25px;}
+a{text-decoration: none;color: black;font-family: Jazz LET, fantasy;}
+a:focus li{color:#F83794;}
+a:hover li{background-color:#F83794;color:black;}
+ul a{margin-top: 10px;}
+a:hover{color: black;}
+main{margin-top: 50px;margin-left: 200px;width: 55%;height:300px;border: 2px solid silver;background:radial-gradient(circle at bottom 
+	right, pink, white);overflow: scroll;}
+td{padding-top: 10px;padding-right: 10px;width: 100px;text-align: right;}
+input{border:1px solid;border-radius:5px;}
+#tbl td, #tbl th{
+	border: 1px solid black;color: black;text-align: center;
+}
